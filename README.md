@@ -20,12 +20,15 @@ Ce portfolio présente mes projets en data analyse utilisant Python, SQL, Power 
 ## Projets
 
 ### 1. Analyse des ventes
-Objectif : analyser les ventes pour identifier les produits les plus rentables.
+Objectif : analyser les configurations pour identifier les fraudes.
+
+[lien du projet](https://github.com/Smben-Mlk/Automatisation-analyse-des-operations-au-niveau-des-ports-clients)
 
 Outils utilisés :
-- SQL
+- Python
 - Power BI
 - Excel
+- SQL
 
 Contenu du projet :
 - Nettoyage des données
@@ -33,7 +36,8 @@ Contenu du projet :
 - Dashboard interactif
 
 Résultats :
-- Identification des produits les plus vendus
+- 
+- Identification des fraudes
 - Analyse des ventes par période
 
 ---
