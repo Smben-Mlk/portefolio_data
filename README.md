@@ -1,6 +1,6 @@
 # portefolio_data
-Bonjour, je m'appelle Rokhaya Sembène.
-Je suis passionnée par l’analyse de données et du développement data.
+Bienvenue dans mon portfolio de projets en analyse de données et développement data.
+Je m'intéresse à la transformation des données en informations utiles pour aider à la prise de décision.
 
 Ce portfolio présente mes projets en data analyse utilisant Python, SQL, Power BI et Excel.
 
