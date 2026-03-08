@@ -13,6 +13,7 @@ Ce portfolio présente mes projets en data analyse utilisant Python, SQL, Power 
 - Data Cleaning
 - Data Visualization
 - Analyse descriptive
+- Machine Learning
 - Automatisation
 - ETL
 
