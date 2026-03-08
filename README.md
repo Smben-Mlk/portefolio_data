@@ -1,6 +1,6 @@
 # portefolio_data
 Bienvenue dans mon portfolio de projets en analyse de données et développement data.
-Je m'intéresse à la transformation des données en informations utiles pour aider à la prise de décision.
+Je m'intéresse à la transformation des données en informations utiles et à l'automatisation des taches répétitives.
 
 Ce portfolio présente certains de mes projets d'automtisation en développement data et analyse utilisant Python, SQL, Power BI et Excel.
 
@@ -21,7 +21,7 @@ Ce portfolio présente certains de mes projets d'automtisation en développement
 
 ## Projets
 
-### 1. Automatisation analyses des operations au niveau des ports clients
+### 1. Automatisation analyse des operations au niveau des ports clients
 Objectif : Automatiser l'analyse de toutes les opérations faites au niveau des ports clients (anti fraude).
 
 [lien du projet](https://github.com/Smben-Mlk/Automatisation-analyse-des-operations-au-niveau-des-ports-clients)
@@ -50,23 +50,33 @@ Résultats :
 
 ---
 
-### 2. Analyse des données Netflix
-Objectif : analyser les films et séries disponibles.
-
+### 2. Automatisation analyse des opérations OM
+Objectif : Analyser  les opérations d'annulation et de reset pin faites sur OM puis identifier les fraudes.
 
 [lien du projet](https://github.com/Smben-Mlk/Automatisation-analyse-des-op-rations-de-transactions-OM)
 
 Outils utilisés :
 - Python
-- Power BI
+- Excel
 
-Analyse :
-- Nombre de films par pays
-- Genres les plus populaires
-- Evolution des productions par année
+ Contenu du projet :
+ 
+- analyse de logs
+- Deep learning
+- Machine learning
+- automatisation
+- Analyse de données
+- Netoyage de données
+- aggrégation de données
+- corrélation de données
+
+Résultats :
+- Analyse des opérations OM
+- Identifier les fraudes OM
+- Protection des fonds du client
 
 ## Contact
 
 Email : sembenerokhaya13@gmail.com
 LinkedIn : https://www.linkedin.com/in/rokhaya-sembene-730b8a1b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-GitHub : 
+GitHub : https://github.com/Smben-Mlk
