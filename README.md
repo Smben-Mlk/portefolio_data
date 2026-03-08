@@ -2,7 +2,7 @@
 Bienvenue dans mon portfolio de projets en analyse de données et développement data.
 Je m'intéresse à la transformation des données en informations utiles pour aider à la prise de décision.
 
-Ce portfolio présente mes projets en data analyse utilisant Python, SQL, Power BI et Excel.
+Ce portfolio présente certains de mes projets d'automtisation en développement data et analyse utilisant Python, SQL, Power BI et Excel.
 
 ## Compétences
 
@@ -46,6 +46,9 @@ Résultats :
 
 ### 2. Analyse des données Netflix
 Objectif : analyser les films et séries disponibles.
+
+
+[lien du projet](https://github.com/Smben-Mlk/Automatisation-analyse-des-op-rations-de-transactions-OM)
 
 Outils utilisés :
 - Python
