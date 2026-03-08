@@ -21,8 +21,8 @@ Ce portfolio présente certains de mes projets d'automtisation en développement
 
 ## Projets
 
-### 1. Analyse des ventes
-Objectif : analyser les configurations pour identifier les fraudes.
+### 1. Automatisation analyses des operations au niveau des ports clients
+Objectif : Automatiser l'analyse de toutes les opérations faites au niveau des ports clients (anti fraude).
 
 [lien du projet](https://github.com/Smben-Mlk/Automatisation-analyse-des-operations-au-niveau-des-ports-clients)
 
@@ -33,14 +33,20 @@ Outils utilisés :
 - SQL
 
 Contenu du projet :
-- Nettoyage des données
-- Analyse des ventes
+
+- Analyse de logs
+- Deep learning
+- Machine learning
+- Automatisation
 - Dashboard interactif
+- Netoyage de données
+- Aggrégation de données
+- Corrélation de données
 
 Résultats :
-- 
-- Identification des fraudes
-- Analyse des ventes par période
+
+- Analyse des opérations au niveau des ports
+- Identification automatique des fraudes
 
 ---
 
